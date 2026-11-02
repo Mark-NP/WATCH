@@ -1,0 +1,2 @@
+source /home/mnp/esp/main_watch/build/gdbinit/symbols
+source /home/mnp/esp/main_watch/build/gdbinit/connect

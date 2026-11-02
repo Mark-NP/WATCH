@@ -1,0 +1,17 @@
+--- esp-idf-monitor 1.10.0 on /dev/ttyACM0 115200
+--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+--- 0x40080400: _init at ??:?
+--- ERROR: device reports readiness to read but returned no data (device disconnected or multiple access on port?)
+--- Waiting for the device to reconnect
+--- 0x40080400: _init at ??:?
+--- 0x400d6c03: app_main at /home/mnp/esp/main_watch/main/main.c:84
+--- 0x40085b6b: _esp_error_check_failed at /home/mnp/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400818f2: panic_abort at /home/mnp/esp/esp-idf/components/esp_system/panic.c:486
+--- 0x40085b75: esp_system_abort at /home/mnp/esp/esp-idf/components/esp_system/port/esp_system_chip.c:87
+--- 0x4008bb71: abort at /home/mnp/esp/esp-idf/components/newlib/abort.c:38
+--- 0x40085b6b: _esp_error_check_failed at /home/mnp/esp/esp-idf/components/esp_system/esp_err.c:49
+--- 0x400d6c03: app_main at /home/mnp/esp/main_watch/main/main.c:84
+--- 0x400e2b24: main_task at /home/mnp/esp/esp-idf/components/freertos/app_startup.c:208
+--- 0x40086665: vPortTaskWrapper at /home/mnp/esp/esp-idf/components/freertos/FreeRTOS-Kernel/portable/xtensa/port.c:139
+--- 0x40080400: _init at ??:?
+

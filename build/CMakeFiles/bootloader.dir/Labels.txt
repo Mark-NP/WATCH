@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/mnp/esp/main_watch/build/CMakeFiles/bootloader
+/home/mnp/esp/main_watch/build/CMakeFiles/bootloader.rule
+/home/mnp/esp/main_watch/build/CMakeFiles/bootloader-complete.rule
+/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

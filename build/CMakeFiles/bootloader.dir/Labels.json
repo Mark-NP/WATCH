@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/mnp/esp/main_watch/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/mnp/esp/main_watch/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/mnp/esp/main_watch/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/mnp/esp/main_watch/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

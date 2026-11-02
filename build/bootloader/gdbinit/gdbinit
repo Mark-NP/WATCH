@@ -1,0 +1,2 @@
+source /home/mnp/esp/main_watch/build/bootloader/gdbinit/symbols
+source /home/mnp/esp/main_watch/build/bootloader/gdbinit/connect
